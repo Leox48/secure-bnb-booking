@@ -427,3 +427,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Rafforzativi
+.env
+*.pfx
+*.key
+secrets/
+uploads/
+*.bak
+*.sql
